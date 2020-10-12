@@ -3,7 +3,7 @@
   "version": "0.0.3",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "95df2cc932e28c5df04ad7d0968109b225b39a16",
+  "gitHead": "30d8714c43b9dbeaf853665b95678524abcc2390",
   "dependencies": {
     "@storybook/addon-actions": "^6.0.25"
   }
