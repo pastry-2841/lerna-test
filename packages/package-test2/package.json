@@ -1,5 +1,5 @@
 {
-  "name": "package-test2",
+  "name": "@test/package-test2",
   "version": "0.0.2",
   "description": "> TODO: description",
   "author": "yutang <yutang@dian.so>",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/pastry-2841/lerna-test/issues"
-  }
+  },
+  "gitHead": "393468be206e82dd85191758d553c120e786e808"
 }
