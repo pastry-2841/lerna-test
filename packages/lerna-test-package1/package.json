@@ -1,6 +1,6 @@
 {
   "name": "@test/package1",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "393468be206e82dd85191758d553c120e786e808",
