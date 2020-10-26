@@ -5,6 +5,7 @@
   "license": "MIT",
   "gitHead": "ec024dae0ddd0bedce92edfa3fc37f60f587c036",
   "dependencies": {
-    "@storybook/addon-actions": "^6.0.25"
+    "@storybook/addon-actions": "^6.0.25",
+    "package2": "^1.0.0"
   }
 }
