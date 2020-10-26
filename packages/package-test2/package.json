@@ -1,0 +1,29 @@
+{
+  "name": "package-test2",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "yutang <yutang@dian.so>",
+  "homepage": "https://github.com/pastry-2841/lerna-test#readme",
+  "license": "ISC",
+  "main": "lib/add.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.dian.so/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pastry-2841/lerna-test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/pastry-2841/lerna-test/issues"
+  }
+}
