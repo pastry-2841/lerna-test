@@ -1,9 +1,9 @@
 {
-  "name": "package1",
+  "name": "lerna-test-package1",
   "version": "0.0.4",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "30d8714c43b9dbeaf853665b95678524abcc2390",
+  "gitHead": "b5b6f96439ace77998b25b6f6e03dcb92dacb5b0",
   "dependencies": {
     "@storybook/addon-actions": "^6.0.25"
   }

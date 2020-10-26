@@ -17,5 +17,6 @@
   "scripts": {
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
-  }
+  },
+  "gitHead": "b5b6f96439ace77998b25b6f6e03dcb92dacb5b0"
 }
